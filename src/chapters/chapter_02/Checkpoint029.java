@@ -1,6 +1,6 @@
 package chapters.chapter_02;
 
-public class Checkpoint_029 {
+public class Checkpoint029 {
 
 	public static void main(String[] args) {
 		 double miles = 100 ;
