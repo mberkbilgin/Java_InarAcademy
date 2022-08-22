@@ -1,4 +1,6 @@
- import java.util.Scanner ;
+package chapters.chapter_02 ;
+
+import java.util.Scanner ;
 
  public class Checkpoint022 {
 

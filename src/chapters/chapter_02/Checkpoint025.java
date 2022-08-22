@@ -1,3 +1,5 @@
+package chapters.chapter_02 ;
+
 public class Checkpoint025{
 
 public static void main(String[] args) {
