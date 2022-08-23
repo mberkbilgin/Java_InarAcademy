@@ -8,7 +8,7 @@ public class Checkpoint213 {
 		System.out.println(25/4);
 		
 		//Second expression by being floating point number
-		float a = 25f / 4 ;
+		float a = 25.0F / 4 ;
 		
 		System.out.println(a);
 
