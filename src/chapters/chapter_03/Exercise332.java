@@ -19,7 +19,7 @@ public class Exercise332 {
 		double x2 = input.nextDouble();
 		double y2 = input.nextDouble();
 		
-		double a = (x1 - x) * (y2 - x) - (x2 - x) * (y1 - y);
+		double a = (x1 - x) * (y2 - y) - (x2 - x) * (y1 - y);
 		if (a > 0) {
 			System.out.println("("+x2+", "+y2+") is on the left side of the line from "+"("+x+", "+y+") to ("+x1+", "+y1+")");
 		} else if (a == 0) {
