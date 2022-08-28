@@ -23,6 +23,8 @@ public class Exercise331 {
 			double amount = input.nextDouble();
 			double a = rate * amount;
 			System.out.println(amount + " yuan is " + " $" + a);
+		}else {
+			System.out.println("Incorrect input");
 		}
 	}
 
