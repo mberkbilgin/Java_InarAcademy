@@ -9,6 +9,7 @@ public class Checkpoint415 {
 		System.out.println('a' >= 'A');
 		System.out.println('a' == 'a');
 		System.out.println('a' != 'b');
+System.out.println(Math.log(Math.exp(1)));
 	}
 
 }

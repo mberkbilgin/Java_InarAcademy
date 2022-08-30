@@ -17,24 +17,36 @@ public class Checkpoint048 {
 		
 		int w = 'b';
 		System.out.println(w);
-		
-		int k = '2'+'0';
+		System.out.println("-------------------------------------");
+		char k = 40 ;
 		System.out.println(k);
 		
-		int l = '5'+'9';
+		char  l = 59 ;
 		System.out.println(l);
 		
-		int m = '7'+'9';
+		char  m = 79 ;
 		System.out.println(m);
 		
-		int n = '8'+'5';
+		char  n = 85 ;
 		System.out.println(n);
 		
-		int o = '9'+'0';
+		char  o = 90 ;
 		System.out.println(o);
-		
-		int p = '4'+'0';
+		System.out.println("-------------------------------------");
+		char p = 0X40 ;
 		System.out.println(p);
+		
+		char r = 0X5A ;
+		System.out.println(r);
+		
+		char s = 0X71 ;
+		System.out.println(s);
+		
+		char t = 0X72 ;
+		System.out.println(t);
+		
+		char a = 0X7A ;
+		System.out.println(a);
 		
 		
 
