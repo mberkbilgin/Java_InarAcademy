@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Checkpoint421 {
 
 	public static void main(String[] args) {
+		
 		String set1 = 
 				"1 3 5 7\n"
 		+"9 11 13 15 \n" 
@@ -85,3 +86,5 @@ public class Checkpoint421 {
 	}
 
 }
+
+
