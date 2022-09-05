@@ -2,7 +2,7 @@ package chapters.chapter_05.Checkpoint;
 
 import java.util.Scanner;
 
-public class Chekcpoint056 {
+public class Checkpoint056 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
