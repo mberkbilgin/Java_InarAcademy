@@ -6,8 +6,9 @@ public class Checkpoint513 {
 		long sum = 0 ;
 		int i = 0 ;
 		while(i < 1000) {
-			i++ ;
 			sum = sum + i ; 
+			i++ ;
+			 
 		}
 	System.out.println("sum is "+sum);
 	}
