@@ -1,6 +1,6 @@
 package chapters.chapter_05.Checkpoint;
 
-public class Checkpoint527 {
+public class Checkpoint527a {
 
 	public static void main(String[] args) {
 		for (int i = 1; i < 4; i++) {
