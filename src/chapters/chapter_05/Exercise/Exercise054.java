@@ -6,7 +6,7 @@ public class Exercise054 {
 		System.out.println("Miles     Kilometres");
 		for(int miles = 1 ; miles < 11 ; miles++) {
 			double km = (int)(miles * 1.609*100)/100.0 ;
-			System.out.println(miles+"    	  "+km);
+			System.out.printf("%-11d%-6.1f\n",miles,km);
 		
 		}
 	}
