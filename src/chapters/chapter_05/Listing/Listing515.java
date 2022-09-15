@@ -25,7 +25,7 @@ public class Listing515 {
 					System.out.println(number);
 				}
 				else 
-					System.out.println(number+" ");
+					System.out.print(number+" ");
 			}
 			number++;
 		}
