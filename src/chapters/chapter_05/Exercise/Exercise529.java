@@ -7,6 +7,9 @@ public class Exercise529 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		
+		//FINISHED BUT NOT DESIGNED
+		
+		
 		System.out.println("Enter the year: ");
 		int year = input.nextInt();
 		System.out.println("Enter the first day of the year: ");
