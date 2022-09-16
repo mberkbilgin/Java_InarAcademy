@@ -28,7 +28,7 @@ public class Exercise528 {
 			   case 12: str += "December"; 
 
 			}
-			str += "1, "+ year + " is " ;
+			str += " 1, "+ year + " is " ;
 			
 			day %= 7;
 			
